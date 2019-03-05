@@ -1,6 +1,8 @@
 # Introduction to APIs and JSON
 
-[go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
+
+
+Credit: [go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
 
 ---
 
@@ -25,11 +27,13 @@
 
 Note: examples include Windows API for working with Windows OS and Android API for their development kit
 
+<span style="font-size:12pt">See: <https://en.wikipedia.org/wiki/Application_programming_interface></span>
+
 ---
 
 ## Web APIs
 
->When used in the context of web development, an API is typically a defined set of specifications, such as Hypertext Transfer Protocol (HTTP) request messages, along with a definition of the structure of response messages, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format.
+>When used in the context of web development, an API is typically a defined set of specifications, such as [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP) request messages, along with a definition of the structure of response messages, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format.
 
 <span style="font-size:12pt">[Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)</span>
 
@@ -178,10 +182,12 @@ Using your browser, explore SWAPI and answer these questions:
 
 ---
 
+## Next? 
+
 ## Questions?
 
 **Thank you!**
 
-Jacob Shelby - jtshelby@ncsu.edu
+Leigh Phan -  <leighphan@library.ucla.edu>
 
-Mike Nutt - mrnutt@ncsu.edu
+Tim Dennis - <timdennis@ucla.edu>
