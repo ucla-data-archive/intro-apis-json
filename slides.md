@@ -2,7 +2,7 @@
 
 
 
-Credit: [go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
+Credits: [go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
 
 ---
 
@@ -23,7 +23,8 @@ Credit: [go.ncsu.edu/introapis](http://go.ncsu.edu/introapis)
 - Application Programming Interface
 - Building blocks for developing a computer program
 - Web-based system, operating system, software library, etc
-- Specifications for routines, data structures, variables, etc
+- A set of rules and procedures that facilitate interactions between computers and their applications
+
 
 Note: examples include Windows API for working with Windows OS and Android API for their development kit
 
@@ -36,6 +37,18 @@ Note: examples include Windows API for working with Windows OS and Android API f
 >When used in the context of web development, an API is typically a defined set of specifications, such as [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP) request messages, along with a definition of the structure of response messages, which is usually in an Extensible Markup Language (XML) or JavaScript Object Notation (JSON) format.
 
 <span style="font-size:12pt">[Wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)</span>
+
+
+---
+## Web APIs
+
+* allows users to query a remote database over the internet
+
+* take on a variety of formats 
+
+* majority adhere to a particular style known as **Reperesentational State Transfer** or **REST**
+
+* "RESTful" APIs are conveinent because we can use them to query databases using URLs 
 
 ---
 
